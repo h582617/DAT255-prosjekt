@@ -1,4 +1,3 @@
 # DAT255 Prosjekt 
 ## Introduksjon
-
-Her er nettsiden jeg skulle bruke modellen med. 
+For å se bildet av nettsiden som jeg skulle bruke modellen med, gå til nettsiden for minkgjenkjenningen prosjektet.jpg rett under README.md
